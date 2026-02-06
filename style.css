@@ -1,0 +1,14 @@
+.sectionWrapper2{
+    color: blue;
+    border: 1px;
+    border-style: dotted;
+    border-color: purple;
+    background-color: beige;
+}
+
+.sectionWrapper2 h1{
+    color: black;
+    background: lightgreen;
+    font-style: italic;
+    
+}

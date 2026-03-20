@@ -1,0 +1,13 @@
+<template>
+  <section>
+    <div>
+      Column1
+    </div>
+    <div>
+      Column2
+    </div>
+    <div>
+      Column3
+    </div>
+  </section>
+</template>
